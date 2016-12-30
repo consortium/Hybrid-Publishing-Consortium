@@ -17,8 +17,10 @@ Key to the infrastructural approach is a notion of a universal fluid document mo
 
 The goal of the infrastructure is to create a new synthesis of computational automation and human skills and agency, adding next-gen reliability and speed to publication production. In turn this new synthesis will change the use and control of knowledge institutions and industries.
 
-![text stack](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/consortium_c.png "Tech Stack")
+![text stack](../blob/master/consortium_c.png?raw=true "Tech Stack")
 Consortium Tech Stack [PDF version](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/consortium_c.pdf)
+![Image](../blob/master/public_html/img/nokia.png?raw=true)
+
 
 ### Getting Involved
 Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub_con](https://twitter.com/pub_con)
