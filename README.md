@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/consortium/hpc-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The consortium’s mission is to supporting the software development community to build free and open source publishing infrastructures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The consortium is a network of businesses, community groups and researchers.
 
-### Markdown
+The consortium is open to all areas of publishing. The current priority is interoperability between platform in scholarly publishing that are using multi-format and multi-media functionality.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The consortium is operated by the research organization the Hybrid Publishing Group.
 
-```markdown
-Syntax highlighted code block
+### Connecting Platforms
 
-# Header 1
-## Header 2
-### Header 3
+The consortium supports an infrastructural backend software ecology to connect publishing platforms to enable - continuous validation, real-time processing, multi-format outputs and multi-media features.
+ 
+The objective is to promote design excellence in – authoring systems, publication layout and interface design, librarianship and engineering - to enable diverse and global communities in the pursuit of knowledge creation and dissemination.
 
-- Bulleted
-- List
+Key to the infrastructural is an approach of a universal fluid document model based on format transformation aligned to output requirements, rather than fixed format standards. The fluid document model is then combined with a test-driven methodology of continuous validation and technologies including real-time processing, cryptographic IDs, flat-file storage, Docker virtualisation, encrypted documents and content distribution network APIs.
 
-1. Numbered
-2. List
+The goal of the infrastructure is to create a new synthesis of computational automation and human skills and agency, adding next-gen reliability and speed to publication production. In turn this new synthesis will change the use and control of knowledge institutions and industries.
 
-**Bold** and _Italic_ and `Code` text
+### Getting Involved
+Find us on GitHub, join the discussion list or follow us in Twitter. Contact details Simon Worthington, simon@hpg.io
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/consortium/hpc-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Members Include
+LaTex GmBH, Fidus Writer and the Hybrid Publishing Group
