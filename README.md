@@ -5,7 +5,7 @@ The consortium is a network of businesses, community groups and researchers.
 
 The consortium is open to all areas of publishing. The current priority is interoperability between software platforms in scholarly publishing that are using multi-format and multimedia functionality.
 
-The consortium is operated by the research organization the [Hybrid Publishing Group](https://hpg-io/).
+The consortium is operated by the research organization the [Hybrid Publishing Group](https://hpg.io/).
 
 ### Connecting Platforms
 
