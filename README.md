@@ -23,7 +23,7 @@ Consortium Tech Stack [PDF version](https://github.com/consortium/Hybrid-Publish
 Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub_con](https://twitter.com/pub_con)
 
 ### Members Include
-LaTex GmBH, Fidus Writer and the Hybrid Publishing Group´
+Le-Tex Publishing Sservices GmbH, Fidus Writer and the Hybrid Publishing Group
 
 ### Info
 Contact: Simon Worthington, simon AT hpg.io [Imprint](imprint.md) © The authors [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/)
