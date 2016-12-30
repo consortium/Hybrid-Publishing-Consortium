@@ -24,4 +24,4 @@ Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub
 LaTex GmBH, Fidus Writer and the Hybrid Publishing Group´
 
 ### Info
-Contact: simon AT hpg.io [Imprint](imprint.md) © The authors [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/)
+Contact: Simon Worthington, simon AT hpg.io [Imprint](imprint.md) © The authors [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/)
