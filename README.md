@@ -18,7 +18,7 @@ Key to the infrastructural is an approach of a universal fluid document model ba
 The goal of the infrastructure is to create a new synthesis of computational automation and human skills and agency, adding next-gen reliability and speed to publication production. In turn this new synthesis will change the use and control of knowledge institutions and industries.
 
 ### Getting Involved
-Find us on GitHub, join the discussion list or follow us in Twitter. Contact details Simon Worthington, simon@hpg.io
+Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub_con](https://twitter.com/pub_con)
 
 ### Members Include
 LaTex GmBH, Fidus Writer and the Hybrid Publishing Group´
