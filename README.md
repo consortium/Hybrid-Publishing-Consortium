@@ -21,6 +21,7 @@ The goal of the infrastructure is to create a new synthesis of computational aut
 Find us on GitHub, join the discussion list or follow us in Twitter. Contact details Simon Worthington, simon@hpg.io
 
 ### Members Include
-LaTex GmBH, Fidus Writer and the Hybrid Publishing Group
+LaTex GmBH, Fidus Writer and the Hybrid Publishing Group´
 
+### Info
 Contact: simon AT hpg.io [Imprint](imprint.md) © The authors [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/)
