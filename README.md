@@ -22,3 +22,7 @@ Find us on GitHub, join the discussion list or follow us in Twitter. Contact det
 
 ### Members Include
 LaTex GmBH, Fidus Writer and the Hybrid Publishing Group
+
+Contact: simon AT hpg.io
+Imprint
+© The authors | [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/)
