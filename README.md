@@ -3,6 +3,8 @@ The consortium’s mission is to support software development communities to bui
 
 The consortium is a network of businesses, community groups and researchers.
 
+The consortium’s activities include; research and research publishing, software development, business development, advocacy, publishing, events and peer-learning.
+
 The consortium is open to all areas of publishing. The current priority is interoperability between software platforms in scholarly publishing that are using multi-format and multimedia functionality.
 
 The consortium is operated by the research organization the [Hybrid Publishing Group](https://hpg.io/).
