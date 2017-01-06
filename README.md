@@ -1,4 +1,5 @@
 ---
+The project is called {{ site.github.project_title }}
     <!-- Metatags -->
     <meta charset="utf-8" /> <!-- doesn’t need editing -->
     <meta name="generator" content="github pages" /> <!-- doesn’t need editing -->
@@ -27,6 +28,8 @@
 ---
 
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
+
+The project is called {{ site.github.project_title }}
 
 The consortium is a network of businesses, community groups and researchers.
 
