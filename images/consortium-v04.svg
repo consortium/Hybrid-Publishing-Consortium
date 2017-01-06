@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="consortium-v04.svg"
-   inkscape:export-filename="/home/mrc/Downloads/a-machine/consortium_v04.png"
-   inkscape:export-xdpi="149.97481"
-   inkscape:export-ydpi="149.97481">
+   inkscape:export-filename="/home/mrc/Github251016/Hybrid-Publishing-Consortium/images/consortium-v04sml.png"
+   inkscape:export-xdpi="36.290001"
+   inkscape:export-ydpi="36.290001">
   <defs
      id="defs4">
     <marker
@@ -164,7 +164,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
