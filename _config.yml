@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 ---
-hello
+The project is called {{ site.github.project_title }}
 ---
 
 
