@@ -50,10 +50,7 @@ Consortium Tech Stack [PDF version](https://github.com/consortium/Hybrid-Publish
 
 [![Image of Consortium Tech Stack](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/images/consortium-v04sml.png)](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/pdf/consortium-v04.pdf)
 
-<img src="https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/images/consortium-v04sml.png" alt="Smiley face" height="42" width="42">
-
-
-<img src="images/consortium-v04sml.png" alt="Smiley face" height="42" width="42">
+<img src="images/consortium-v04sml.png" alt="Image of Consortium Tech Stack">
 
 ### Getting Involved
 Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub_con](https://twitter.com/pub_con)
