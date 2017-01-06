@@ -1,32 +1,3 @@
----
-
-    <!-- Metatags -->
-    <meta charset="utf-8" /> <!-- doesn’t need editing -->
-    <meta name="generator" content="github pages" /> <!-- doesn’t need editing -->
-    <meta name="keywords" content="hybrid publishing consortium"/> <!-- edit: each keyword separated by a comma (10 is a good number) -->
-    <meta name="description" content="The consortium’s mission is to support software development communities to build free and open source publishing infrastructures"/> <!-- edit: text, sentences -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <!-- doesn’t need editing -->
-    <meta name="viewport" content="width=device-width, initial-scale=1"/> <!-- doesn’t need editing -->
-    <!-- Dublin Core -->
-    <meta name="DC.title" content="Hybrid Publishing Consortium"/> <!-- doesn’t need editing -->
-    <meta name="DC.contributor" content="Simon Worthington"/> <!-- edit - one meta tag per author -->
-    <meta name="DC.creator" content="Simon Worthington" /> <!-- edit -->
-    <meta name="DC.subject" content="free and Open-source software"> <!-- edit: comma separated (can be more than the keywords) -->
-    <meta name="DC.description.abstract" content="The consortium’s mission is to support software development communities to build free and open source publishing infrastructures"/> <!-- edit: copy of the desciption -->
-    <meta name="DC.date" content=""/> <!-- edit: yyyy-mm-dd -->
-    <meta name="DC.type" content="home website"/> <!-- edit: choose one -->
-    <meta name="DC.format" content="text/html"/> <!-- doesn’t need editing -->
-    <meta name="DC.language" content="eng"/> <!-- if edit ISO 639-3 standard: http://en.wikipedia.org/wiki/ISO_639:a -->
-    <meta name="DC.identifier.URL" content="http://consortium.io"/> <!-- if edit: put a url -->
-    <meta name="DC.rights" content="http://www.consortium.io/LICENCE.md"/> <!-- if edit: put a url -->
-    <meta name="DC.identifier" content="https://github.com/consortium"/> <!-- edit, and if no identifier it will be generated -->
-    <meta name="DC.publisher" content="Hybrid Publishing Consortium"/> <!-- edit: for each publisher a new meta tag -->
-    <meta name="DC.bibliographicCitation" content="Worthington, Simon. “Hybrid Publishing Consortium.” Home Page. Hybrid Publishing Consortium, December 2016. http://consortium.io/"/> <!-- doesn’t need editing -->
-    <link rel="SCHEMA.DC" href="http://purl.org/dc/elements/1.1/"/> <!-- doesn’t need editing -->
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
----
-
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
 
 The consortium is a network of businesses, community groups and researchers.
