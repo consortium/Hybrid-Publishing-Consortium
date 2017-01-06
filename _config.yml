@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-site.github
+{{ site.github.build_revision }}
