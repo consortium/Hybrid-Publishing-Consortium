@@ -28,4 +28,4 @@ Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub
 Le-Tex Publishing Sservices GmbH, Fidus Writer and the Hybrid Publishing Group
 
 ### Info
-Contact: Simon Worthington, simon AT hpg.io [Imprint](imprint.md) © The authors [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/)
+Contact: Simon Worthington, simon AT hpg.io [Imprint](imprint.md) © 2011-2017 The authors. Creative Commons, Attribution-ShareAlike 4.0 International
