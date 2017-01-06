@@ -1,5 +1,5 @@
 ---
-The project is called {{ site.github.project_title }}
+
     <!-- Metatags -->
     <meta charset="utf-8" /> <!-- doesn’t need editing -->
     <meta name="generator" content="github pages" /> <!-- doesn’t need editing -->
@@ -25,6 +25,7 @@ The project is called {{ site.github.project_title }}
     <link rel="SCHEMA.DC" href="http://purl.org/dc/elements/1.1/"/> <!-- doesn’t need editing -->
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicon.ico" />
+    
 ---
 
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
