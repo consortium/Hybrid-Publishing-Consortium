@@ -50,6 +50,8 @@ Consortium Tech Stack [PDF version](https://github.com/consortium/Hybrid-Publish
 
 [![Image of Consortium Tech Stack](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/images/consortium-v04sml.png)](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/pdf/consortium-v04.pdf)
 
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
 ### Getting Involved
 Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub_con](https://twitter.com/pub_con)
 
