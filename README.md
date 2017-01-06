@@ -20,7 +20,7 @@
     <meta name="DC.rights" content="http://www.consortium.io/LICENCE.md"/> <!-- if edit: put a url -->
     <meta name="DC.identifier" content="https://github.com/consortium"/> <!-- edit, and if no identifier it will be generated -->
     <meta name="DC.publisher" content="Hybrid Publishing Consortium"/> <!-- edit: for each publisher a new meta tag -->
-    <meta name="DC.bibliographicCitation" content="use a Chicago Manual of Style citation"/> <!-- doesn’t need editing -->
+    <meta name="DC.bibliographicCitation" content="Worthington, Simon. “Hybrid Publishing Consortium.” Home Page. Hybrid Publishing Consortium, December 2016. http://consortium.io/"/> <!-- doesn’t need editing -->
     <link rel="SCHEMA.DC" href="http://purl.org/dc/elements/1.1/"/> <!-- doesn’t need editing -->
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicon.ico" />
