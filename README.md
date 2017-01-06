@@ -48,8 +48,6 @@ The goal of the infrastructure is to create a new synthesis of computational aut
 
 Consortium Tech Stack [PDF version](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/pdf/consortium-v04.pdf)
 
-[![Image of Consortium Tech Stack](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/images/consortium-v04sml.png)](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/pdf/consortium-v04.pdf)
-
 [<img src="images/consortium-v04sml.png" alt="Image of Consortium Tech Stack">](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/pdf/consortium-v04.pdf)
 
 ### Getting Involved
