@@ -1,2 +1,1 @@
 theme: jekyll-theme-minimal
-{{ site.github.build_revision }}
