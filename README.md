@@ -1,4 +1,4 @@
-<head>
+---
     <!-- Metatags -->
     <meta charset="utf-8" /> <!-- doesn’t need editing -->
     <meta name="generator" content="github pages" /> <!-- doesn’t need editing -->
@@ -24,7 +24,7 @@
     <link rel="SCHEMA.DC" href="http://purl.org/dc/elements/1.1/"/> <!-- doesn’t need editing -->
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicon.ico" />
-</head>
+---
 
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
 
