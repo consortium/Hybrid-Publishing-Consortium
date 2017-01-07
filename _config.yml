@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 gems:
   - jekyll-git_metadata
-site.git
 
 
