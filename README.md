@@ -1,4 +1,4 @@
-The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
+The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.XXX
 
 The consortium is a network of businesses, community groups and researchers.
 
