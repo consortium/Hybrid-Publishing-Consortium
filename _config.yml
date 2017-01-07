@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-title:{{ site.github.project_title }}
+title: {{ site.github.project_title }}
 
 
