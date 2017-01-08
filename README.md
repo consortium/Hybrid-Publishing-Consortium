@@ -1,3 +1,7 @@
+ {{ site.github.project_title }}
+  
+ {{ site.github.build_revision }}
+
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
 
 The consortium is a network of businesses, community groups and researchers.
