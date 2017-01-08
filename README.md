@@ -1,7 +1,3 @@
- {{ site.github.project_title }}
-  
- {{ site.github.build_revision }}
-
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
 
 The consortium is a network of businesses, community groups and researchers.
@@ -34,3 +30,8 @@ Le-Tex Publishing Services GmbH, Fidus Writer, AVCO Limited, Hybrid Publishing G
 
 ### Info
 Contact: Simon Worthington, simon AT hpg.io [Imprint](imprint.md) © 2011-2017 The authors. Creative Commons, Attribution-ShareAlike 4.0 International
+
+Build version: {{ site.github.build_revision }}
+ 
+Repository URL: {{ site.github.repository_url }} 
+
