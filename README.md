@@ -23,10 +23,10 @@ Consortium Tech Stack [PDF version](https://github.com/consortium/Hybrid-Publish
 [<img src="images/consortium-v04sml.png" alt="Image of Consortium Tech Stack">](https://github.com/consortium/Hybrid-Publishing-Consortium/blob/master/pdf/consortium-v04.pdf)
 
 ### Getting Involved
-Find us on [GitHub](https://github.com/consortium), or follow us in Twitter [pub_con](https://twitter.com/pub_con)
+Find us on [GitHub](https://github.com/consortium) follow us in Twitter [pub_con](https://twitter.com/pub_con) or join our [discussion mailing list](https://lists.openmute.net/cgi-bin/mailman/listinfo/hpc-discussion)
 
 ### Members Include
-Le-Tex Publishing Services GmbH, Fidus Writer, AVCO Limited, Hybrid Publishing Group, InfoMesh Technologies UG, Small Museums (Canada), xm:lab - Experimental Media Lab (HBKsaar, DE) and Center for Disruptive Media (Coventry University, UK), Mute Publishing.
+Organisations: Le-Tex Publishing Services GmbH, Fidus Writer, AVCO Limited, Hybrid Publishing Group, InfoMesh Technologies UG, Small Museums (Canada), xm:lab - Experimental Media Lab (HBKsaar, DE) and Center for Disruptive Media (Coventry University, UK), Mute Publishing. Scholarly publishing consultation members: Kavita Philip and Senthil Babu.
 
 ### Info
 Contact: Simon Worthington, simon AT hpg.io [Imprint](imprint.md) © 2011-2017 The authors. Creative Commons, Attribution-ShareAlike 4.0 International
